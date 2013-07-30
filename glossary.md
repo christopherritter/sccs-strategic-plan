@@ -32,15 +32,7 @@ world.
 **Environmental Stewardship (Sustainability) -** Taking action to promote 
 sustainability in our schools and community and delving into science-based 
 health and environmental issues will positively impact the whole person and 
-community over time. The District adopted a sustainability policy in February 
-2013 [which can be viewed here](https://sancarlos.csbaagendaonline.net/cgibin/WebObjects/sancarloseAgenda.woa/files/MTM2NjQ3MzQ0Mzc3Mi9zYW5jYXJsb3NlQWdlbmRhLzE
-xMzUvNTM1NS9GaWxlcw==/sustainability_policy_2-26.pdf).
-
-**Facility Master Plan -** A plan adopted by the District in March 2013 to outline 
-the plans for building and renovation of facilities throughout the District, 
-including the building of two new 4th-5th grade schools. [The plan can be 
-viewed here](http://www.sancarlos.k12.ca.us/wp-content/uploads/3-14-13-
-FINAL-San-Carlos-School-District-FMP-_-LK-EDITS.pdf).
+community over time.
 
 **Global Curriculum -** A curriculum that recognizes the interconnected nature 
 of the world and focus on a greater understanding of world history, culture, 
