@@ -1,7 +1,7 @@
 Achievements and Milestones
 ===========================
 
-SCSD has many ongoing and important goals, obligations and commitments that 
+SCCS has many ongoing and important goals, obligations and commitments that 
 have always been and will continue to be priorities for the District.  These include, 
 for example, ensuring that all schools are safe places for students and staff, that 
 all students will be instructed in core curriculum (Math, Science, Language Arts, 
