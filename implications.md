@@ -49,9 +49,9 @@ teaching and learning, featuring real-world, meaningful design challenges,
 including a deep appreciation for and exploration of the creative 
 expression found within the arts 
 
-California's adoption of the Common Core Standards (CCS) brings these new 
+Ohio's adoption of the [Common Core Standards (CCS)](http://www.commoncore.org/) brings these new 
 elements of teaching and learning to the forefront and helps address the 
-opportunities and challenges we currently face. CCS provides a more student-
+opportunities and challenges we currently face. [CCS](http://www.commoncore.org/) provides a more student-
 centered approach to assessment and gives teachers, schools, and the District a 
 richer set of formative data to inform teaching and learning, while allowing 
 students to self-monitor their progress in real time.  Student collaborative and 
