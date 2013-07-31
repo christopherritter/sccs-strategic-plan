@@ -6,8 +6,8 @@ title: A Vision for Our Children
 {{ page.title }}
 ================
 
-The San Carlos School District shall provide an innovative and engaging learning 
-experience that fosters the development of the Whole Child to ensure all 
+The Springboro Community City Schools shall provide an innovative and engaging learning 
+experience that fosters the development of the [Whole Child](http://www.wholechildeducation.org/about) to ensure all 
 students are well prepared for success in the 21st Century, as evidenced by:
 
 * Reaching their highest academic, social, emotional, intellectual, and 
