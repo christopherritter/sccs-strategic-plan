@@ -22,7 +22,7 @@ following high leverage goals:
 **I. Align Curriculum and Instruction to a 21st Century Model of Learning**
 
 **A.** Articulate and implement a coherent and innovative PK–8 curriculum 
-founded on the [Common Core](http://www.commoncore.org/) and subject-specific standards (e.g. 
+founded on the [Common Core](glossary.html#ccss) and subject-specific standards (e.g. 
 [Next Generation Science Standards](http://www.nextgenscience.org/)) while leveraging powerful 21st
 century approaches to deepen and accelerate teaching and learning 
 (e.g., [blended learning](http://weblearning.psu.edu/blended-learning-initiative/what_is_blended_learning), 
