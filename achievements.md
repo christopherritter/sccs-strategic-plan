@@ -25,24 +25,23 @@ following high leverage goals:
 founded on the [Common Core](glossary.html#ccss) and subject-specific standards (e.g. 
 [Next Generation Science Standards](http://www.nextgenscience.org/)) while leveraging powerful 21st
 century approaches to deepen and accelerate teaching and learning 
-(e.g., [blended learning](http://weblearning.psu.edu/blended-learning-initiative/what_is_blended_learning), 
-technology-infused [project based learning](https://en.wikipedia.org/wiki/Project-Based_Learning), and 
+(e.g., [blended learning](glossary.html#bl), technology-infused [project based learning](glossary.html#pbl), and 
 [design thinking](https://en.wikipedia.org/wiki/Design_thinking).
 
-**B.** Align curriculum to emphasize new, effective practices in [Whole Child](http://www.wholechildeducation.org/about, 
-[Common Core Standards](http://www.commoncore.org/), [STEM](http://en.wikipedia.org/wiki/STEM_fields), and health/wellness with an 
+**B.** Align curriculum to emphasize new, effective practices in [Whole Child](glossary.html#wc), 
+[Common Core Standards](glossary.html#ccss), [STEM](glossary.html#stem), and health/wellness with an 
 emphasis on formative rather than summative assessments.  Ensure 
 that the requisite training/professional development and support and 
 educational materials are used.  
 
 **C.** Create greater emphasis on a relevant, real-world, global curriculum 
 that builds extended learning experiences and choices/electives
-(relevant to the [Whole Child](http://www.wholechildeducation.org/about) approach), including integrating 
+(relevant to the [Whole Child](glossary.html#wc) approach), including integrating 
 environmental stewardship, equity and justice, and related topics into 
 the curriculum and an expansion of physical, social, and emotional 
 wellness programs.
 
-**D.** Place greater emphasis on [Project-Based Learning](https://en.wikipedia.org/wiki/Project-Based_Learning) to focus on 
+**D.** Place greater emphasis on [Project-Based Learning](glossary.html#pbl) to focus on 
 problem-solving, collaboration, critical-thinking, and time management 
 skills, thus allowing greater student engagement and "ownership" of 
 their own learning.  Additionally, students will have personalized 
@@ -61,7 +60,7 @@ learning, data collection and analysis, and district-wide operations.
 **G.** Experiment with “blurring the lines of time and place” on all campuses 
 such that some students may experience a modified school day, 
 outreach work in the community, and learn from first-hand resources.  This may include the use of 
-[Blended Learning](http://weblearning.psu.edu/blended-learning-initiative/what_is_blended_learning) approaches, 
+[Blended Learning](glossary.html#bl) approaches, 
 integration of "non-traditional" activities 
 into the school day, a greater integration of community activities and 
 resources into the learning process, and redefining the boundaries of 
@@ -80,9 +79,9 @@ those with accelerated learning needs and those requiring specialized
 intervention and differentiation.
 
 **J.** Create new rubrics and measurements of student, school, and district 
-success, including measuring [Whole Child](http://www.wholechildeducation.org/about) outcomes (e.g. physical 
+success, including measuring [Whole Child](glossary.html#wc) outcomes (e.g. physical 
 wellness, character development, etc.); a practice for collaborative 
-review, including self-review, and [Authentic Assessment](http://jfmueller.faculty.noctrl.edu/toolbox/whatisit.htm) of student 
+review, including self-review, and [Authentic Assessment](glossary.html#aa) of student 
 work; and a district-wide longitudinal data system and protocols to 
 support collaborative and personal assessment of student 
 performance.
@@ -99,7 +98,7 @@ by providing a greater level of autonomy, responsibility, and support
 **B.** Build a robust [professional development ("PD") plan](http://en.wikipedia.org/wiki/Personal_development_planning) to provide all staff 
 with ongoing professional development to support their ability to teach 
 in new ways and with new, emerging tools, including PD related to 
-[Common Core](http://www.commoncore.org/). Emphasize [Professional Learning Communities](https://en.wikipedia.org/wiki/Professional_Learning_Community) and 
+[Common Core](glossary.html#ccss). Emphasize [Professional Learning Communities](glossary.html#plc) and 
 build a culture of learning and embracing of change.
 
 **C.** Create time for teachers to engage in professional learning and 
