@@ -29,8 +29,9 @@ Measures for monitoring progress of this Strategic Plan included, but are not
 limited to, the following:
 
 **STUDENT**
+
 * Solicit student input regarding their experience in 21st Century Learning 
-environments and Whole Child development
+environments and [Whole Child](http://www.wholechildeducation.org/about) development
 * Create portfolios of Authentic Assessments, including but not limited to 
 standardized testing information & selected exemplary work products
 subject to longitudinal review
@@ -38,6 +39,7 @@ subject to longitudinal review
 students against the criteria
 
 **STAFF**
+
 * Outline a strategy for staff to review student data using integrated and 
 comprehensive tools and undertake longitudinal review of student work 
 and exhibits in an electronic and/or physical portfolio format
@@ -46,9 +48,10 @@ personalized professional learning, curriculum, teaching and learning
 environment, health and wellness, etc.
 * Establish and annually review processes for evaluation, training, 
 mentoring, and coaching
-* Create measures of progress in collaboration and Authentic Assessments
+* Create measures of progress in collaboration and [Authentic Assessments](http://jfmueller.faculty.noctrl.edu/toolbox/whatisit.htm)
 
 **COMMUNITY**
+
 * Solicit parent input, report findings, and create action plans regarding 
 student experience, growth and whole child well-being and understanding 
 of 21st Century Learning practices
